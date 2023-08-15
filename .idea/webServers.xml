@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4fcce2ef-5e4a-4419-952b-35279751f291" name="play_linux">
+        <fileTransfer accessType="SFTP" host="192.168.3.17" port="22" sshConfigId="31a1de07-280a-41cf-b7dc-afb493d6c003" sshConfig="root@192.168.3.17:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
