@@ -11,7 +11,7 @@
     <groupId>com.luxiaobu</groupId>
     <artifactId>play-linux</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>play-linux</name>
     <description>play-linux</description>
     <properties>
